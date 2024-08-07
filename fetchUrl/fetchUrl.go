@@ -1,7 +1,7 @@
 /*
 Successful test:
 $ go build gopl.io/ch1/fetch
-$ ./fetch http://gopl.io
+$ ./fetchUrl http://gopl.io
 
 Unsuccessful test:
 $ ./fetch http://bad.gopl.io
